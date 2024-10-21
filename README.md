@@ -1,2 +1,1 @@
-# ember512
-Ember version 5.12
+# Hello World Web App built with Ember version 5.12
